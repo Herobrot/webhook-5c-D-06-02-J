@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "@types/jquery": "^3.5.29",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.3.3"
   },
